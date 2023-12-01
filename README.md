@@ -3,22 +3,6 @@
 
 ETL(Extract, Transform and Load) is a process that extracts the data from different source systems, then transforms the data and finally loads the data into the data warehouse system.
 
-## Members:
-###
-| **Project Lead & Developer<br>👩🏻‍💻** | **Data Analysts<br> 📊**|
-| :-------------: | :-------------: | :-------------: |
-|  **Anushka Swami(Team leader**  |  **Gouri(Manager)**   | 
-| **Divya Davanagere**  |  **Aishwarya Nigudgi** | 
-|**Nishita Madamshetty**  | **Meghana** | 
-| **Shalini**  | **Shilpa**  | 
-| **Vasvi**  | **Rakshita P**  | 
-| **Divya O P**  | **K Bhargavi**  |
-|**Spandana**  |**Bhumika**|
-|**Ratnaprabha**|**Prerana**|
-|**Shreenidhi**|**...**|
-<br>
-
-
 ## Advantages
 
 1.Improved data quality.
