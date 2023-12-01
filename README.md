@@ -3,6 +3,7 @@
 
 ETL(Extract, Transform and Load) is a process that extracts the data from different source systems, then transforms the data and finally loads the data into the data warehouse system.
 
+
 ## Advantages
 
 1.Improved data quality.
@@ -13,6 +14,7 @@ ETL(Extract, Transform and Load) is a process that extracts the data from differ
 
 4.Improved scalability
 
+
 ## Features
 
 •	Data extraction from a wide range of sources such as databases, spreadsheets, APIs, and cloud storage.
@@ -20,6 +22,7 @@ ETL(Extract, Transform and Load) is a process that extracts the data from differ
 •	Data transformation tasks such as cleansing, filtering, aggregating, and enriching data.
 
 •	Intuitive interfaces for designing data integration workflows.
+
 
 ## Challenges
 
