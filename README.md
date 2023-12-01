@@ -5,12 +5,9 @@ ETL(Extract, Transform and Load) is a process that extracts the data from differ
 
 ## Advantages
 
-1.Improved data quality.
-
-2.Better data integration.
-
-3.Increased data security.
-
+1.Improved data quality.<br>
+2.Better data integration.<br>
+3.Increased data security.<br>
 4.Improved scalability
 
 
