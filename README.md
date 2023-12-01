@@ -5,7 +5,8 @@ ETL(Extract, Transform and Load) is a process that extracts the data from differ
 
 ## Members:
 ###
-
+| **Project Lead & Developer<br>👩🏻‍💻** | **Data Analysts<br> 📊**|
+| :-------------: | :-------------: | :-------------: |
 |  **Anushka Swami(Team leader**  |  **Gouri(Manager)**   | 
 | **Divya Davanagere**  |  **Aishwarya Nigudgi** | 
 |**Nishita Madamshetty**  | **Meghana** | 
